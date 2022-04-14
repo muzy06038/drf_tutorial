@@ -17,7 +17,8 @@ class GroupViewSet(viewsets.ModelViewSet):
     permission_classes = [permissions.IsAuthenticated]
 
     #필요한 경우  view를 나눌 수 있지만 set으로 하면 간결해짐..
-    
+
+
 
 
 
